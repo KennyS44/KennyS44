@@ -1,16 +1,14 @@
-## Hi there 👋
+## KennyS.
 
-<!--
-**KennyS44/KennyS44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-end developer. I build tools I use myself, mostly with plain
+HTML, CSS and JavaScript — no framework unless the problem needs one.
 
-Here are some ideas to get you started:
+**Currently:** learning Rust and WebAssembly. Building an image
+vectorizer that turns raster logos into clean SVG entirely in the
+browser — colour quantization, contour tracing and curve fitting
+written from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Working with:** JavaScript · TypeScript · HTML/CSS · Electron ·
+Firebase · Rust (learning)
+
+📫 ilvachevrmn@gmail.com
