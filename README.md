@@ -9,6 +9,6 @@ browser — colour quantization, contour tracing and curve fitting
 written from scratch.
 
 **Working with:** JavaScript · TypeScript · HTML/CSS · Electron ·
-Firebase · Rust (learning)
+Firebase
 
 📫 ilvachevrmn@gmail.com
